@@ -1,0 +1,223 @@
+{
+  "scene": "train_000",
+  "date_1": "20150801",
+  "date_2": "20170801",
+  "bands": [
+    "B02",
+    "B03",
+    "B04",
+    "B08"
+  ],
+  "image_size": [
+    256,
+    256
+  ],
+  "threshold_percentile": 95,
+  "threshold": 0.6492606202731397,
+  "changed_pixels": 2721,
+  "changed_percent": 4.15191650390625,
+  "num_AOIs": 25,
+  "AOIs": [
+    {
+      "id": 3,
+      "pixels": 1384,
+      "x_min": 2,
+      "y_min": 6,
+      "x_max": 78,
+      "y_max": 67,
+      "center_x": 41.11054913294798,
+      "center_y": 36.20809248554913
+    },
+    {
+      "id": 2,
+      "pixels": 350,
+      "x_min": 210,
+      "y_min": 2,
+      "x_max": 253,
+      "y_max": 18,
+      "center_x": 234.61428571428573,
+      "center_y": 10.157142857142857
+    },
+    {
+      "id": 12,
+      "pixels": 164,
+      "x_min": 2,
+      "y_min": 94,
+      "x_max": 19,
+      "y_max": 123,
+      "center_x": 9.109756097560975,
+      "center_y": 106.6219512195122
+    },
+    {
+      "id": 10,
+      "pixels": 99,
+      "x_min": 30,
+      "y_min": 77,
+      "x_max": 38,
+      "y_max": 102,
+      "center_x": 34.64646464646464,
+      "center_y": 89.94949494949495
+    },
+    {
+      "id": 22,
+      "pixels": 92,
+      "x_min": 195,
+      "y_min": 226,
+      "x_max": 208,
+      "y_max": 238,
+      "center_x": 201.2391304347826,
+      "center_y": 233.32608695652175
+    },
+    {
+      "id": 16,
+      "pixels": 64,
+      "x_min": 109,
+      "y_min": 176,
+      "x_max": 118,
+      "y_max": 183,
+      "center_x": 113.65625,
+      "center_y": 179.5
+    },
+    {
+      "id": 9,
+      "pixels": 57,
+      "x_min": 14,
+      "y_min": 65,
+      "x_max": 23,
+      "y_max": 71,
+      "center_x": 18.280701754385966,
+      "center_y": 68.08771929824562
+    },
+    {
+      "id": 20,
+      "pixels": 56,
+      "x_min": 139,
+      "y_min": 216,
+      "x_max": 153,
+      "y_max": 221,
+      "center_x": 146.30357142857142,
+      "center_y": 218.30357142857142
+    },
+    {
+      "id": 18,
+      "pixels": 51,
+      "x_min": 138,
+      "y_min": 199,
+      "x_max": 144,
+      "y_max": 207,
+      "center_x": 140.94117647058823,
+      "center_y": 203.2941176470588
+    },
+    {
+      "id": 24,
+      "pixels": 38,
+      "x_min": 244,
+      "y_min": 235,
+      "x_max": 250,
+      "y_max": 241,
+      "center_x": 247.05263157894737,
+      "center_y": 238.1578947368421
+    },
+    {
+      "id": 7,
+      "pixels": 35,
+      "x_min": 218,
+      "y_min": 17,
+      "x_max": 223,
+      "y_max": 23,
+      "center_x": 220.0857142857143,
+      "center_y": 19.742857142857144
+    },
+    {
+      "id": 25,
+      "pixels": 35,
+      "x_min": 210,
+      "y_min": 240,
+      "x_max": 215,
+      "y_max": 247,
+      "center_x": 212.57142857142858,
+      "center_y": 243.4857142857143
+    },
+    {
+      "id": 4,
+      "pixels": 31,
+      "x_min": 191,
+      "y_min": 9,
+      "x_max": 199,
+      "y_max": 12,
+      "center_x": 194.93548387096774,
+      "center_y": 10.741935483870968
+    },
+    {
+      "id": 14,
+      "pixels": 31,
+      "x_min": 84,
+      "y_min": 156,
+      "x_max": 89,
+      "y_max": 161,
+      "center_x": 86.29032258064517,
+      "center_y": 158.4516129032258
+    },
+    {
+      "id": 23,
+      "pixels": 28,
+      "x_min": 62,
+      "y_min": 233,
+      "x_max": 67,
+      "y_max": 237,
+      "center_x": 64.5,
+      "center_y": 235.14285714285714
+    },
+    {
+      "id": 6,
+      "pixels": 27,
+      "x_min": 113,
+      "y_min": 15,
+      "x_max": 120,
+      "y_max": 18,
+      "center_x": 116.77777777777777,
+      "center_y": 16.77777777777778
+    },
+    {
+      "id": 17,
+      "pixels": 26,
+      "x_min": 89,
+      "y_min": 195,
+      "x_max": 93,
+      "y_max": 200,
+      "center_x": 91.15384615384616,
+      "center_y": 197.76923076923077
+    },
+    {
+      "id": 19,
+      "pixels": 25,
+      "x_min": 115,
+      "y_min": 215,
+      "x_max": 119,
+      "y_max": 220,
+      "center_x": 116.8,
+      "center_y": 217.68
+    },
+    {
+      "id": 11,
+      "pixels": 23,
+      "x_min": 44,
+      "y_min": 77,
+      "x_max": 48,
+      "y_max": 82,
+      "center_x": 45.91304347826087,
+      "center_y": 79.47826086956522
+    },
+    {
+      "id": 15,
+      "pixels": 23,
+      "x_min": 186,
+      "y_min": 157,
+      "x_max": 190,
+      "y_max": 161,
+      "center_x": 188.0,
+      "center_y": 159.17391304347825
+    }
+  ],
+  "georeferencing": "Unavailable: OSCD TIFFs have no CRS/geotransform"
+}

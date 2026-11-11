@@ -1,0 +1,27 @@
+
+# Python environment
+.cfenv/
+__pycache__/
+*.pyc
+
+# Node dependencies
+node_modules/
+**/node_modules/
+
+# Dataset files
+data/sentinel2/
+
+# Build files
+dist/
+build/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+*.h5
